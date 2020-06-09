@@ -30,7 +30,7 @@ This one should be fun(-ish).
 
 12. Checkout your master branch. Run 'git pull origin master'. 
 
-13. If when viewing your master branch you have all of your changes from the setup branch on your master branch congratulations, you've made it through the second week. Ask questions during your mentor sessions about the assignment and all of the things you can do with css. 
+13. If when viewing your master branch you have all of your changes from the setup branch on your master branch congratulations, you've made it through the second week! I'm sure you have a lot of questions about layout, responsinvesns,  and all of the things you can do with css. Ask away at your mentor sessions, explore, etc.. This is an anitmation done in pure css drawings, with no images, just code. https://css-art.com/loving-car-pure-css-with-animation/
  
 
 
