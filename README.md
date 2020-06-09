@@ -30,7 +30,7 @@ This one should be fun(-ish).
 
 12. Checkout your master branch. Run 'git pull origin master'. 
 
-13. High five the monitor if when viewing your master branch you have all of your changes from the setup branch.
+13. If when viewing your master branch you have all of your changes from the setup branch on your master branch congratulations, you've made it through the second week. Ask questions during your mentor sessions about the assignment and all of the things you can do with css. 
  
 
 
