@@ -2,7 +2,7 @@
 
 Create issues on the link below on the parent repo if you are stuck and want to talk about it. You can paste code, tag people and refer to other issues there. Link here: https://github.com/Code-the-Dream-School/web-basics-1-week-2
 
-
+Welcome to week 2. You are going to start this assignment now, but are actually going to come back and finish it, in week 4. The first pass through you will not know nearly as much, in two weeks you will learn additional CSS that should help you more. But you should submit it both times!
 
 This one should be fun(-ish).
 
